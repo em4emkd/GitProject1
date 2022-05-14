@@ -9,5 +9,7 @@ public class Main {
         System.out.println("two");
         System.out.println("three");
 
+        System.out.println("four, correct code");
+
     }
 }
